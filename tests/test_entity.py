@@ -1,6 +1,5 @@
 from unittest import TestCase
-
-from entity import Entity
+from server_config.entity import Entity
 
 class TestEntity(TestCase):
     def test_simple_dict(self):
