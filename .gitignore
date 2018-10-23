@@ -1,3 +1,6 @@
 .eggs/
 dist/
 server_config.egg-info/
+# Compiled python modules.
+*.pyc
+__pycache__/

@@ -9,6 +9,8 @@ class Entity(dict):
         entity = Entity()
         entity.a = 'b'
         entity['x'] = 'y'
+
+        entity = Entity(**json.loads(JSON_DATA))
     """
     def __getattr__(self, name):
         try:
