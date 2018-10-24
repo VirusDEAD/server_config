@@ -1,6 +1,16 @@
 CHANGES
 =======
 
+* vscode to git ignore
+* moved tests
+* enity and tests
+* add entity class to have a dict as an enity
+* setup py stuff
+* bare metal package
+* ignore build directories
+* git ignore
+* Set theme jekyll-theme-hacker
+* Set theme jekyll-theme-hacker
 * update readme
 * test
 * Initial commit
