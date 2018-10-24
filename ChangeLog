@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Entity class with tests
 * vscode to git ignore
 * moved tests
 * enity and tests
