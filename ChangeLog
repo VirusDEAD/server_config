@@ -1,6 +1,8 @@
 CHANGES
 =======
 
+* requirements include autopep8 and pylint
+* requirements include autopep8 and pylint
 * Entity class with tests
 * vscode to git ignore
 * moved tests
