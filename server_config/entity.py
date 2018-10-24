@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+"""
+Consider using 
+https://pypi.org/project/attrdict/
+"""
 
 class Entity(dict):
     """
