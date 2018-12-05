@@ -1,7 +1,8 @@
 # Server Config
 
 ## Introduction
-A small python project to manage configuration as a service backed by a cloud storage for a client-server application.
+
+A small python package to manage configuration as a service backed by a cloud storage for a client-server application.
 
 The need and basic application is from my _game development_ experience. Some constants and definitions (cards, units, spells) needed to be changed remotely on the server, but they were required by the client as well in order to dysplay information for the user.
 
